@@ -41,3 +41,6 @@ detect bad baby<br/>
 但我觉得个人隐私是一定要尊重的<br/>
 URC不会修改任何系统文件<br/>
 除了/data/local/tmp/，这里是公共区域，无伤大雅<br/>
+
+
+![图片名称](https://www.baidu.com/img/bd_logo1.png)  
