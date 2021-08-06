@@ -1,8 +1,8 @@
 * this guy's english is bad
 
 # For Honkai Impact 3
-* Game server： ALL
-* Game version: Unlimited
+* Game server： Unlimited
+* Game version:  Unlimited
 * device : Android mobile, don't use Android emulator
 
 # Software features
