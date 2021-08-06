@@ -34,9 +34,8 @@
 * 一句话，版本低于26的要安装附件里的这个riru-v26.0.1-release.zip
 
 * 注意，URC增加了自身检测机制
-
-* detect bad baby
 <br/>
+detect bad baby
 手动卸载删除那些内存相关app<br/>
 虽然URC可以直接动用root权限搞定<br/>
 但我觉得个人隐私是一定要尊重的<br/>
