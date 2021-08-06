@@ -35,7 +35,7 @@
 
 * 注意，URC增加了自身检测机制
 <br/>
-detect bad baby
+detect bad baby<br/>
 手动卸载删除那些内存相关app<br/>
 虽然URC可以直接动用root权限搞定<br/>
 但我觉得个人隐私是一定要尊重的<br/>
