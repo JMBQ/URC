@@ -1,4 +1,4 @@
-# [click here to watch English ver](https://github.com/JMBQ/URC/edit/main/README_en.md)  
+# [click here to watch English ver](README_en.md)  
 
 # 适用于鸡厂的三崩子
 * 游戏服务器：全服
