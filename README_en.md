@@ -1,4 +1,4 @@
-* this guy's english is bad
+* this guy's english is bad， translation by software, issues don't use English abbreviation
 
 # For Honkai Impact 3
 * Game server： Unlimited
