@@ -12,7 +12,7 @@
 
 # 安装要求
 * 手机解锁BL
-* 安装Magisk来接管root
+* 安装Magisk来接管su
 * 安装最新版riru模块
 * 安装riru-JMBQ模块
 * 安装U.R.C app
