@@ -20,3 +20,11 @@
 
 # Installation video
 * Included in the compressed package
+
+# Attach Chinese-English comparison
+* 无CD  ->  NO CD, Dangerous
+* 满星  ->  full star, or three star, safe
+* 时装  ->  unlock all dress, but it will be recover， safe
+* AI    ->  Delete monster AI, safe, but don't use in the Online combat with other player
+* 攻速  ->  You will have twice the attack speed, No risk for daily use，Other scenarios are not tested
+* SP    ->  You will have twice the SP, Multiplier detection has been bypassed，No risk for Main line use，Other scenarios are not tested
