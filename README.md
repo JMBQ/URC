@@ -43,4 +43,4 @@ URC不会修改任何系统文件<br/>
 除了/data/local/tmp/，这里是公共区域，无伤大雅<br/>
 
 
-![图片名称](https://www.baidu.com/img/bd_logo1.png)  
+![image](release/riru.jpg)
