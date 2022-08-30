@@ -25,4 +25,4 @@
 
 * 注意，URC增加了自身检测机制
 
-![image](release/riru.jpg)
+//![image](release/riru.jpg)
