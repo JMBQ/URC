@@ -25,9 +25,6 @@
 
 # 注意
 
-* 若觉得magisk经常弹su授权toast碍眼，可以去magisk的设置里， 关闭“超级用户通知”
-
-* 在MagiskHide里开启针对目标游戏的隐藏（必须，游戏会检测root）
-
+* 若觉得magisk经常弹授权toast碍眼，可以去magisk 关闭 URC 的“超级用户通知”
 * 注意，URC增加了自身检测机制
 
