@@ -1,4 +1,4 @@
-# [click here to watch English ver](README_en.md)  
+# [EN](README_en.md)  
 
 # 适用于三崩子
 * 游戏服务器：全服
