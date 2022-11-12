@@ -1,6 +1,6 @@
 # [EN](README_en.md)  
 
-# 适用于崩坏3
+# 本辅助软件适用于崩坏3
 * 游戏区服：全服
 * 游戏版本：不限制
 * 设备环境：安卓手机
@@ -24,7 +24,6 @@
 
 
 # 注意
-
-* 若觉得magisk经常弹授权toast碍眼，可以去magisk 关闭 URC 的“超级用户通知”
-* 注意，URC增加了自身检测机制
+* 不知道怎么用的，可以来这里看教程https://mega.nz/folder/spFFgSia#dd5jeZHyADqZ5a1lEj3xgw
+* 若觉得magisk经常弹toast碍眼，可以去magisk 关闭 URC 的“超级用户通知”
 
