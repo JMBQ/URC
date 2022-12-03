@@ -1,3 +1,4 @@
+<img src="release/00.jpg" width="500px">
 
 # For Honkai Impact 3
 * Game server： Unlimited
