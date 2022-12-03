@@ -1,4 +1,7 @@
-# [EN](README_en.md)  
+# [EN VER](README_en.md)  
+  
+<img src="release/00.jpg" width="500px">
+
 
 # 本辅助软件适用于崩坏3
 * 游戏区服：全服
@@ -16,11 +19,14 @@
 * 定怪
 * 攻速
 * 能量
+* 移速
+* 超级伤害（该功能风险高）
 
 # 食用
 * 手机解锁BL
 * Magisk接管超级权限
 * 开启zygisk
+* 安装打开URC，跟着toast做就行了
 
 
 # 注意
