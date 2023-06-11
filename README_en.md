@@ -12,9 +12,10 @@
 
 # Installation requirements
 * Mobile unlock bl
-* Install Magisk to take over SU
+* take over SU
 
 # Attach Chinese-English comparison
+* If the URC home page shows that the size of the target installation package is less than 200m, it may not take effect. You need to go to the official website to download and install the complete package (greater than 200m), and 141 will add relevant prompts
 * 满星  ->  full star, or three star, safe
 * AI    ->  Delete monster AI, safe, but don't use in the Online combat with other player
 * 攻速  ->  You will have twice the attack speed, No risk for daily use，Other scenarios are not tested
