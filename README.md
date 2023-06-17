@@ -1,6 +1,6 @@
 # [EN VER](README_en.md)  
   
-<img src="img/1.jpg" width="500px">
+<img src="img/1.png" width="500px">
 
 
 # 本辅助软件适用于崩坏3
