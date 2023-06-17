@@ -12,8 +12,9 @@
 * High security, not easy to be detected and blocked
 
 # How to use
-* Mobile unlock bl
+* phone unlock bootloader
 * take over SU
+* open the Zygisk
 
 # Note
 * FS  ->  full star, or three star, safe
