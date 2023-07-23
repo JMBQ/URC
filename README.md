@@ -14,6 +14,7 @@
 * 完全免费，APP无服务器
 * 非常安全，不易被检测封号
 * 适配arm64-v8a架构
+* 支持游戏分包模式
 
 # 功能
 * 满星
@@ -32,6 +33,4 @@
 # 注意
 * 不知道怎么用的，可以来这里看教程https://mega.nz/folder/spFFgSia#dd5jeZHyADqZ5a1lEj3xgw
 * 若觉得magisk经常弹toast碍眼，可以去magisk 关闭 URC 的“超级用户通知”
-* 如果URC首页显示目标安装包的大小低于200m，那可能无法生效，你需要前往官方网站下载安装完整包(大于200m)，141将会添加相关提示  
-  <img src="img/2.jpg" width="500px">
 
