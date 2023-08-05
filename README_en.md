@@ -3,7 +3,7 @@
 # Honkai Impact 3
 * Game server： Unlimited
 * Game version:  Unlimited
-* device : Android phone
+* device : Android real phone, emulator not supported
 * android version: 9 or higher
 * Root:  Yes
 
@@ -19,8 +19,8 @@
 * open the Zygisk
 
 # Note
-* FS  ->  full star, or three star, safe
-* AI  ->  Delete monster AI, safe, but don't use in the Online combat with other player
+* FS  ->  full star, or three star
+* AI  ->  Delete monster AI, but don't use in the Online combat with other player
 * AS  ->  Attack speed increase
 * SP  ->  SP acquisition boost
 * MS  ->  Movement speed increase
