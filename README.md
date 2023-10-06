@@ -32,6 +32,8 @@
 
 
 # 注意
+* Shamiko模块由你决定是否刷入，但官版面具建议刷入
+* 如果root环境不是由面具提供，那默认你有一定玩机基础，需手动刷入JMBQ模块，其余自行解决
 * 不知道怎么用的，可以来这里看教程https://mega.nz/folder/spFFgSia#dd5jeZHyADqZ5a1lEj3xgw
 * 若觉得magisk经常弹toast碍眼，可以去magisk 关闭 URC 的“超级用户通知”
 
