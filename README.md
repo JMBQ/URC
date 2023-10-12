@@ -27,13 +27,14 @@
 
 # 食用
 * 手机解锁BL并接管超级权限
-* 开启zygisk
+* 开启Zygisk
 * 安装打开URC，跟着toast做就行了
 
 
 # 注意
-* Shamiko模块由你决定是否刷入，但官版面具建议刷入
-* 如果root环境不是由面具提供，那默认你有一定玩机基础，需手动刷入JMBQ模块，其余自行解决
-* 不知道怎么用的，可以来这里看教程https://mega.nz/folder/spFFgSia#dd5jeZHyADqZ5a1lEj3xgw
-* 若觉得magisk经常弹toast碍眼，可以去magisk 关闭 URC 的“超级用户通知”
+* 你需要手动绕过游戏自身可能存在的SU检测
+* Shamiko模块提供绕过SU检测，由你决定是否刷入，但官版面具建议刷入
+* 如果SU环境不是由面具提供，那默认你有一定玩机基础，需手动刷入JMBQ模块，其余问题自行解决
+* 面具用户不知道怎么用的，可以来这里看教程（流程大体相同）https://mega.nz/folder/spFFgSia#dd5jeZHyADqZ5a1lEj3xgw
+* 若觉得面具经常弹权限toast碍眼，可以去面具的"超级权限"里关闭URC的“超级用户通知”
 
