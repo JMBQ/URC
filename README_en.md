@@ -30,8 +30,6 @@
 * LK  ->  super damage, it's Dangerous feature, not recommended, need to modify the configuration file to open
 
 
-Translated with DeepL.com (free version)
-
 # Note
 * You need to manually bypass the possible SU detection in the game itself
 * The Shamiko mod provides a way to bypass SU detection, the official version of the magisk users recommends flashing it in.
