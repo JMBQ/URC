@@ -25,7 +25,7 @@
 * AS  ->  Increase the attack speed of certain characters by 2x
 * SP  ->  The efficiency of obtaining SP is increased to 2x
 * MS  ->  Movement speed increase to 2x
-* JR  ->  I'm more resistant to punching, when enemy attacks me, deal final damage * 0.2 (risk unknown, will be out in 1.4.6)
+* JR  ->  I'm more resistant to punching, when enemy attacks me, Damage numbers remain the same, but the final damage dealt* 0.2 (risk unknown, will be out in 1.4.6)
 * ~AI  ->  Delete monster AI, don't use in the Online combat with other player, this is a slightly dangerous feature, use it as little as possible (7.4 version of the method disappeared causing it to fail, changed to use ldr form, no time for hide and seek + dangerous feature, give up)~
 * LK  ->  super damage, it's Dangerous feature, not recommended, need to modify the configuration file to open
 
